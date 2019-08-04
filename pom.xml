@@ -12,7 +12,7 @@
 	<groupId>com.sgic.internal</groupId>
 	<artifactId>sgic-internal-services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>employee-service</name>
 	<description>Demo project for Spring Boot</description>
 
